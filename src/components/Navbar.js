@@ -15,10 +15,10 @@ const Navbar = () => (
       </div>
       <div className="navbar-start">
         <Link className="navbar-item" to="/about">
-          About
+          关于
         </Link>
         <Link className="navbar-item" to="/products">
-          Products
+          产品
         </Link>
       </div>
       <div className="navbar-end">
